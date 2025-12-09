@@ -76,8 +76,3 @@
 
 
 ---
-
-<p align="center">
-  <img src="https://i.imgur.com/eR1F7bO.gif" width="200"><br>
-  <strong>¡Gracias por visitar mi perfil!</strong>
-</p>
