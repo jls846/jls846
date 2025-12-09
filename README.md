@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b2c667de-52ca-443c-9985-a00b8c45a159" alt="anime banner" width="700">
+  <img src="https://github.com/user-attachments/assets/b2c667de-52ca-443c-9985-a00b8c45a159" alt="anime banner" width="100">
 </p>
 
 <h1 align="center"> Hola, soy <strong>José Luis</strong> </h1>
