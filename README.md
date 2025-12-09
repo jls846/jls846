@@ -6,8 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=35&duration=2600&pause=500&color=FF4500&center=true&vCenter=true&width=600&lines=🔥+Hola%2C+soy+José+Luis+🔥;Desarrollador+Web;Analista+de+Datos;Estudiante+de+MAC" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=2600&pause=300&color=FF0000&background=00000000&center=true&vCenter=true&width=820&lines=%F0%9F%94%A5+JOS%C3%89+LUIS+%F0%9F%94%A5;PIXEL+DEV;8-BIT+STYLE;RETRO+GAMER+VIBES" />
 </p>
+
 
 
 
