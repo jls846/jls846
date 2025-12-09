@@ -1,9 +1,9 @@
 <!-- Banner Anime -->
-<p align="center">
-  <img src="https://i.imgur.com/4M7IWwP.gif" width="600">
+<p align="center">![anime](https://github.com/user-attachments/assets/b2c667de-52ca-443c-9985-a00b8c45a159)
 </p>
 
-<h1 align="center">✨ Hola, soy <strong>José Luis</strong> ✨</h1>
+
+<h1 align="center"> Hola, soy <strong>José Luis</strong> </h1>
 
 <p align="center">
   <strong>Estudiante de Matemáticas Aplicadas y Computación</strong><br>
@@ -73,20 +73,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight">
 </p>
-
----
-
-## 🌸 **Inspiración Anime + Code**
-<p align="center">
-  <img src="https://i.imgur.com/ckG4NJn.gif" width="350">
-</p>
-
----
-
-## 📫 **¿Quieres contactarme?**
-
-📧 **Correo:** *tuemail@dominio.com*  
-💼 **LinkedIn:** *https://linkedin.com/in/tuusuario*  
 
 ---
 
