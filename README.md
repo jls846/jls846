@@ -1,9 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/6093bfd5-d18f-439a-8697-0e78d8d99556]" 
+  <img src="https://github.com/user-attachments/assets/6093bfd5-d18f-439a-8697-0e78d8d99556" 
        alt="anime banner" width="800">
-
 </p>
+
 
 <h1 align="center"> Hola, soy <strong>José Luis</strong> </h1>
 
