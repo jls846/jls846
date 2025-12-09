@@ -5,8 +5,10 @@
 
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=00D9FF&center=true&vCenter=true&width=500&lines=Hola%2C+soy+José+Luis;Desarrollador+Web;Analista+de+Datos;Estudiante+de+Matemáticas+Aplicadas+y+Computación" alt="Typing SVG" />
+</p>
 
-<h1 align="center"> Hola, soy <strong>José Luis</strong> </h1>
 
 <p align="center">
   <strong>Estudiante de Matemáticas Aplicadas y Computación</strong><br>
@@ -15,7 +17,7 @@
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
 - Estudiante de **Matemáticas Aplicadas y Computación**
 - Interesado en **desarrollo web**, **programación**, **análisis de datos** y **optimización de procesos**
@@ -24,9 +26,9 @@
 
 ---
 
-## 🧠 Habilidades Técnicas
+## Habilidades Técnicas
 
-### 🔹 Lenguajes de Programación
+### Lenguajes de Programación
 ![C](https://img.shields.io/badge/C-2370ED?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -36,7 +38,7 @@
 
 ---
 
-### 🔹 Desarrollo Web
+### Desarrollo Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -50,20 +52,20 @@
 
 ---
 
-### 🔹 Análisis de Datos
+### Análisis de Datos
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-### 🔹 Bases de Datos
+### Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ---
 
-### 🔹 Herramientas
+### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -75,5 +77,5 @@
 
 <p align="center">
   <img src="https://i.imgur.com/eR1F7bO.gif" width="200"><br>
-  <strong>¡Gracias por visitar mi perfil! ✨</strong>
+  <strong>¡Gracias por visitar mi perfil!</strong>
 </p>
