@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b2c667de-52ca-443c-9985-a00b8c45a159" 
+  <img src="[https://github.com/user-attachments/assets/6093bfd5-d18f-439a-8697-0e78d8d99556]" 
        alt="anime banner" width="800">
+
 </p>
 
 <h1 align="center"> Hola, soy <strong>José Luis</strong> </h1>
@@ -68,14 +69,6 @@
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 🔥 Estadísticas de GitHub
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight">
-</p>
 
 ---
 
