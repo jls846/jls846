@@ -1,7 +1,7 @@
-<!-- Banner Anime -->
-<p align="center">![anime](https://github.com/user-attachments/assets/b2c667de-52ca-443c-9985-a00b8c45a159)
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b2c667de-52ca-443c-9985-a00b8c45a159" alt="anime banner" width="700">
 </p>
-
 
 <h1 align="center"> Hola, soy <strong>José Luis</strong> </h1>
 
@@ -9,6 +9,7 @@
   <strong>Estudiante de Matemáticas Aplicadas y Computación</strong><br>
   Apasionado por el desarrollo web, análisis de datos y creación de soluciones tecnológicas.
 </p>
+
 
 ---
 
@@ -54,7 +55,7 @@
 ### 🔹 **Bases de Datos**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
 
 ---
 
