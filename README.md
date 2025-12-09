@@ -6,8 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=00D9FF&center=true&vCenter=true&width=500&lines=Hola%2C+soy+José+Luis;Desarrollador+Web;Analista+de+Datos;Estudiante+de+Matemáticas+Aplicadas+y+Computación" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=35&duration=2600&pause=500&color=FF4500&center=true&vCenter=true&width=600&lines=🔥+Hola%2C+soy+José+Luis+🔥;Desarrollador+Web;Analista+de+Datos;Estudiante+de+MAC" />
 </p>
+
 
 
 <p align="center">
