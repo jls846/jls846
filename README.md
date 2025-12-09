@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6093bfd5-d18f-439a-8697-0e78d8d99556" 
-       alt="anime banner" width="800">
+  <img src="https://github.com/user-attachments/assets/d0696079-7a53-4ae0-b235-179f761292f3" 
+       alt="anime banner" width="200">
+
 </p>
 
 
